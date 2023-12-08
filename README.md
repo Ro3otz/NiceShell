@@ -1,0 +1,2 @@
+# NiceShell
+Powershell Trojan Generator
